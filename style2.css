@@ -28,7 +28,7 @@ body {
 #content-area {
     background-color: #ffffff;
     padding-right: 50px;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
 }
 
 #image {
@@ -86,4 +86,13 @@ body {
 
 .project-link {
     margin-bottom: 30px;
+}
+
+.submit {
+    margin-bottom: 20px;
+}
+
+p {
+    color: black;
+    font-size: medium;
 }
