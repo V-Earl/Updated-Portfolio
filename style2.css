@@ -96,3 +96,7 @@ p {
     color: black;
     font-size: medium;
 }
+
+.padding {
+    padding-top: 20px;
+}
