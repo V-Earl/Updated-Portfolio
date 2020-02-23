@@ -5,7 +5,7 @@
 * Includes:
 
   * My Name
-  * Link to Github and LinkedIn can be found on the Contact page, as well as email and phone number.
+  * Link to Github and LinkedIn and Resume can be found on the Contact page, as well as email and phone number.
   * A list of projects can be found on the Portfolio page
   * Updated GitHub profile with pinned repositories featuring Project 1 and 2 homework assignments.
   
